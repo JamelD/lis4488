@@ -54,9 +54,9 @@ The objective of the lab is to familiarize you with the Windows 10workstation ma
 > - Users can read+execute, list, and read
 - Deliverable 15: From Action 14, which boxes did you select? 
 > I only had to select the 'modify' box for Action 14
-- Deliverable 16: From Action 15, what is the full name of the Uniform Naming Convention (UNC) for this share? what do you think this share’s UNC would be? (i.e. \\something\something) 
-> \\LAB-WIN10-12B\MyShare
-- Deliverable 17: From Action 16, what do you think this share’s UNC would be? (i.e. \\something\something) 
-> \\LAB-WIN10-12A\MyShare
+- Deliverable 16: From Action 15, what is the full name of the Uniform Naming Convention (UNC) for this share? what do you think this share’s UNC would be? (i.e. ``` \\something\something ```) 
+> ``` \\LAB-WIN10-12B\MyShare ```
+- Deliverable 17: From Action 16, what do you think this share’s UNC would be? (i.e. ``` \\something\something ```) 
+> ``` \\LAB-WIN10-12A\MyShare ```
 - Deliverable 18: From Action 16, do you see a file in this folder? What is its name? What are its contents? 
 > Class Notes text file

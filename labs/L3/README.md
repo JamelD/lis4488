@@ -59,6 +59,6 @@ The objective of the lab is to familiarize you with the Windows Server 2019manag
 - Deliverable 17: From Action 15, what share permissions did you create for the group Auditors? 
 > Read
 - Deliverable 18: From Action 15, what is the full name of the Uniform Naming Convention (UNC) for this share? 
-> \\LAB-WIN2019-12\Our Share"
+> ``` \\LAB-WIN2019-12\Our Share" ```
 - Deliverable 19: From Action 17, do you see a file in this folder? What is its name? What is its contents?
 > I can connect to the share with my username and password but I receive an error and it doesn't allow me to view any folders or files
