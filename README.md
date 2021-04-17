@@ -6,7 +6,7 @@
 
 *Assignment Links:*
 1. [Buildout Project README.md](buildout-project/README.md "My Buildout Project README.md file")
-    - TBD
+    - Identifying one or more unmet needs (e.g. end-user or technical) and applying these concepts to research, design, plan, build, and operate a process and/or subsystem to address that unmet need.
 
 2. [Design Project README.md](design-project/README.md "My Design Project README.md file")
     - As a network administrator, you are in on the ground floor with Acme, which started as a home business selling a variety of technical widgets to a diverse customer base.
