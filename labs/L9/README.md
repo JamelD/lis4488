@@ -2,7 +2,7 @@
 
 ## Jamel Douglas
 
-### Lab 8: Enterprise Information Discovery
+### Lab 9: Enterprise Information Discovery
 
 #### Objectives
 The objective of the lab is to use the tools found in Microsoft Windows 2016 Server to explore the network you have built in the previous labs, gain a general idea as to its structure, and identify weaknesses and strengths, threats and opportunities. You will use this information in subsequent labs, for your Buildout Team projects.
